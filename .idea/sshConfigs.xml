@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="spartan.hpc.unimelb.edu.au" id="6ea81fb1-364f-4a2a-a390-e11d5e496d41" port="22" nameFormat="DESCRIPTIVE" username="xuanmayl" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="130.194.131.137" id="4c2d99f9-3428-4194-a3cb-e806c99522ea" port="22" nameFormat="DESCRIPTIVE" username="mtra0069" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

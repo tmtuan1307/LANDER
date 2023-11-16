@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c9778a5-d3fe-4c61-8b80-3cc0b239607e" name="spartan_unimelb">
+        <fileTransfer rootFolder="/home/xuanmayl" accessType="SFTP" host="spartan.hpc.unimelb.edu.au" port="22" sshConfigId="6ea81fb1-364f-4a2a-a390-e11d5e496d41" sshConfig="xuanmayl@spartan.hpc.unimelb.edu.au:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ef388fdf-43db-444d-b3c6-a20fd2a4bac0" name="4090">
+        <fileTransfer rootFolder="/home/mtra0069/workplace" accessType="SFTP" host="130.194.131.137" port="22" sshConfigId="4c2d99f9-3428-4194-a3cb-e806c99522ea" sshConfig="mtra0069@130.194.131.137:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="53a6a1c9-3039-4f6c-80e9-8cca2fc7d075" name="4090all">
+        <fileTransfer rootFolder="/home" accessType="SFTP" host="130.194.131.137" port="22" sshConfigId="4c2d99f9-3428-4194-a3cb-e806c99522ea" sshConfig="mtra0069@130.194.131.137:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
