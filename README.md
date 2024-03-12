@@ -1,3 +1,4 @@
+## The source code for "Text-Enhanced Data-free Approach for Federated Class-Incremental Learning" (CVPR 2024)
 
 # Reproducing
 We test the code on RTX 4090 GPU with pytorch: 
