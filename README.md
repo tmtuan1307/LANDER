@@ -31,10 +31,11 @@ CUDA_VISIBLE_DEVICES=0 python main.py --group=c100t5 --exp_name=lander_b05 --dat
 
 ## Citation:
   ```
-@article{lander,
-  title={Text-Enhanced Data-free Approach for Federated Class-Incremental Learning},
+@inproceedings{lander,
+  title={Text-enhanced data-free approach for federated class-incremental learning},
   author={Tran, Minh-Tuan and Le, Trung and Le, Xuan-May and Harandi, Mehrtash and Phung, Dinh},
-  journal={arXiv preprint arXiv:2403.14101},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={23870--23880},
   year={2024}
 }
   ```
