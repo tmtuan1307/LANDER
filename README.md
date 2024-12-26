@@ -29,6 +29,10 @@ CUDA_VISIBLE_DEVICES=0 python main.py --group=c100t5 --exp_name=$method_b05 --da
 CUDA_VISIBLE_DEVICES=0 python main.py --group=c100t5 --exp_name=lander_b05 --dataset cifar100 --method=lander --tasks=5 --num_users 5 --beta=0.5
 ```
 
+### Forgetting Calculator
+You can put the log file into \forgetting_calculator\log and use the \forgetting_calculator\forgetting_cal.py to calculate the forgetting score.
+
+
 ## Citation:
   ```
 @inproceedings{lander,
